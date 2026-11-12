@@ -1,0 +1,4 @@
+# everything except the deliverable
+*
+!.gitignore
+!week1_exercise.ipynb
